@@ -10,6 +10,9 @@ export class Flight {
   drop:string;
   seat:string;
   insurance:string;
+  insurance1:string;
+  insurance2:string;
+  insurance3:string;
   constructor(values: Object = {}) {
     Object.assign(this, values);
   }
