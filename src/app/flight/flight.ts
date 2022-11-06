@@ -3,10 +3,10 @@ export class Flight {
   firstname: string;
   lastname: string;
   email: string;
-  dob: Date;
+  dob: string;
   gender: string;
   pickup: string;
-  pdate: Date;
+  pdate: string;
   drop:string;
   seat:string;
   insurance:string;
